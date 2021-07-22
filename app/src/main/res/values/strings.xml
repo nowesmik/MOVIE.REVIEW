@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FinalReport_02_20190946</string>
+    <string-array name="list">
+        <item>영화제목</item>
+        <item>주연배우</item>
+        <item>감독명</item>
+    </string-array>
+</resources>
