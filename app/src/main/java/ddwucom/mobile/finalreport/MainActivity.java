@@ -20,7 +20,6 @@ import android.widget.Toast;
 
 //과제명:영화 정보 관리 앱
 //분반: 02분반
-//학번: 20190946 성명: 김세원
 //제출일 : 2021년 6월 23일
 public class MainActivity extends AppCompatActivity {
 
